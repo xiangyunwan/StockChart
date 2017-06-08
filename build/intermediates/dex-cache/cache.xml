@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhangzhenzhong\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="D:\leJR-Source\StockChart\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1_4c356ec866caa43a51d409e93f5335a725f9aaee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\leJR-Source\StockChart\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="D:\leJR-Source\StockChart\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_eb9a3b9b28888c8456201bb6476ef1b7d1584c30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhangzhenzhong\.gradle\caches\modules-2\files-2.1\com.squareup.haha\haha\1.1\b7b2e61ee1ad2d1ac6ae3122de9c940fb0d0e635\haha-1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b7b2e61ee1ad2d1ac6ae3122de9c940fb0d0e635">
+        <dex dex="D:\leJR-Source\StockChart\app\build\intermediates\pre-dexed\debug\haha-1.1_dc955e627066940befe07e66c066d74e2971dd2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhangzhenzhong\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.0.0\bf61256d9868ea053e24d77669c55c80db375c15\adapter-rxjava-2.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bf61256d9868ea053e24d77669c55c80db375c15">
+        <dex dex="D:\leJR-Source\StockChart\app\build\intermediates\pre-dexed\debug\adapter-rxjava-2.0.0_06339ae3c7511eb8deaebc0b05c80ba169d00ef3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhangzhenzhong\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.6.0\212387a39088ecd3daff8e3bfc3bdc4123e33c67\okhttp-2.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="212387a39088ecd3daff8e3bfc3bdc4123e33c67">
+        <dex dex="D:\leJR-Source\StockChart\app\build\intermediates\pre-dexed\debug\okhttp-2.6.0_b20761adb86bb71439ffabc5f83520f203032049.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhangzhenzhong\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.1\2780d858273ce1bb90f6b12e1ef0d40f7741fca\converter-gson-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="02780d858273ce1bb90f6b12e1ef0d40f7741fca">
+        <dex dex="D:\leJR-Source\StockChart\app\build\intermediates\pre-dexed\debug\converter-gson-2.0.1_4c71614bdc4c9f1c67ed44ee56be79a99bb07326.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\leJR-Source\StockChart\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="D:\leJR-Source\StockChart\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_82e3bdcde6388af1fefc3dc494171d9b64196157.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhangzhenzhong\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="D:\leJR-Source\StockChart\app\build\intermediates\pre-dexed\debug\javax.inject-1_a0de2093c4a21eaeba44287946abd2b2c5775c0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\leJR-Source\StockChart\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="D:\leJR-Source\StockChart\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_a6e6124a180a7f066fba401b2bcceac9060b5989.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhangzhenzhong\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="D:\leJR-Source\StockChart\app\build\intermediates\pre-dexed\debug\eventbus-3.0.0_dc5a272ced57fa51610ae0d15c3150706a602696.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\leJR-Source\StockChart\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="D:\leJR-Source\StockChart\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_cdc6dd5b2d53b356d394d4091f5c983871245238.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\leJR-Source\StockChart\app\build\intermediates\exploded-aar\StockChart\MPChartLib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8766be121ec59612e4de05bcd4faaa47604eeed3">
+        <dex dex="D:\leJR-Source\StockChart\app\build\intermediates\pre-dexed\debug\StockChart-MPChartLib-unspecified_5cd550d4e7b67709f3e075cb92712dbcc934c3a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhangzhenzhong\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.3\5a1aef6a9d56efb473b8be6b66689077e7317c45\rxjava-1.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5a1aef6a9d56efb473b8be6b66689077e7317c45">
+        <dex dex="D:\leJR-Source\StockChart\app\build\intermediates\pre-dexed\debug\rxjava-1.1.3_73197103d875d520dff624e6f0dccd9ef08a4ae9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhangzhenzhong\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.1\27293c440d2085cde1d859528aff6e7d3b6ae40\retrofit-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="027293c440d2085cde1d859528aff6e7d3b6ae40">
+        <dex dex="D:\leJR-Source\StockChart\app\build\intermediates\pre-dexed\debug\retrofit-2.0.1_032ffa2b88a41be1098126fc76ea805abe3c4d7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhangzhenzhong\.gradle\caches\modules-2\files-2.1\com.squareup.leakcanary\leakcanary-watcher\1.3\632482a61ad24b7ec864072945d221369f9a606\leakcanary-watcher-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0632482a61ad24b7ec864072945d221369f9a606">
+        <dex dex="D:\leJR-Source\StockChart\app\build\intermediates\pre-dexed\debug\leakcanary-watcher-1.3_009d54115aae14dbc9dc725ee44da8879aff4ab9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhangzhenzhong\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\leJR-Source\StockChart\app\build\intermediates\pre-dexed\debug\okio-1.6.0_61a48af0a3bd2bc731ec3644c64c55f4c00f6a70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\JavaIDE\android_sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="D:\leJR-Source\StockChart\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_9d7c84b28ceeb3d74ec1d908ea52663bbdbc259a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhangzhenzhong\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="D:\leJR-Source\StockChart\app\build\intermediates\pre-dexed\debug\gson-2.6.2_e9a5762ad305490d277ac4b774177a182b4e839e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\leJR-Source\StockChart\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="D:\leJR-Source\StockChart\app\build\intermediates\pre-dexed\debug\io.reactivex-rxandroid-1.1.0_bb4908c186b4114221bc4c5be0c1cf4cb8d9c111.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\leJR-Source\StockChart\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="D:\leJR-Source\StockChart\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_6b3f18ff220857e787bfac9f2fcabc5520d2bc83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhangzhenzhong\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="D:\leJR-Source\StockChart\app\build\intermediates\pre-dexed\debug\okhttp-3.2.0_996ed9e1f7caa67117d9e11b934e67b947513a83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhangzhenzhong\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.2.0\a56f28d5b7fab623c6c1d2afa08dd496d873ac21\logging-interceptor-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a56f28d5b7fab623c6c1d2afa08dd496d873ac21">
+        <dex dex="D:\leJR-Source\StockChart\app\build\intermediates\pre-dexed\debug\logging-interceptor-3.2.0_1c7ce1ed2e16fe7aa2a0efa170e98be19425e12d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhangzhenzhong\.gradle\caches\modules-2\files-2.1\com.squareup.leakcanary\leakcanary-analyzer\1.3\c5399b18a672f7973c8a9b9d6b731a3a36e590cc\leakcanary-analyzer-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c5399b18a672f7973c8a9b9d6b731a3a36e590cc">
+        <dex dex="D:\leJR-Source\StockChart\app\build\intermediates\pre-dexed\debug\leakcanary-analyzer-1.3_537ca44da8edfa225e41487c02815c4b4c863275.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\leJR-Source\StockChart\app\build\intermediates\exploded-aar\com.squareup.leakcanary\leakcanary-android\1.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f4e7adebf49e683db82fb6efac2caaf3d768b8d4">
+        <dex dex="D:\leJR-Source\StockChart\app\build\intermediates\pre-dexed\debug\com.squareup.leakcanary-leakcanary-android-1.3_3ec7f40ca7c1454a4486aca1cade6400950a8f78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhangzhenzhong\.gradle\caches\modules-2\files-2.1\com.google.dagger\dagger\2.0.2\de8416eda7b2fd7c25836b140c39e1cbf10542f6\dagger-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de8416eda7b2fd7c25836b140c39e1cbf10542f6">
+        <dex dex="D:\leJR-Source\StockChart\app\build\intermediates\pre-dexed\debug\dagger-2.0.2_9c10c919e22addc8c42a6a2a08743a0639be822e.jar" />
+    </item>
+
+</items>
